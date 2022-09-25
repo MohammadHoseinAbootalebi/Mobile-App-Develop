@@ -68,4 +68,4 @@ Fifth preview of developed app:
 
 ![Uploading 5th Page.png…]()
 
-And Finally 
+**And Finally in the following you could see the video of the final product.**
