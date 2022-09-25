@@ -33,3 +33,8 @@ Second preview image:
 Third preview image:
 
 ![Whole Page](https://user-images.githubusercontent.com/111989636/192132806-c15bb28c-9ef2-4438-ae3e-9c7005903f69.png)
+
+### **Preview UI/UX Designing Part In Adobe XD :**
+
+https://user-images.githubusercontent.com/111989636/192133404-284f98cd-04d6-4492-954a-c2fb2ddb3cf6.mp4
+
