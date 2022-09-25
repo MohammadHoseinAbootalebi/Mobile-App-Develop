@@ -38,3 +38,9 @@ Third preview image:
 
 https://user-images.githubusercontent.com/111989636/192133404-284f98cd-04d6-4492-954a-c2fb2ddb3cf6.mp4
 
+# **Code Section**
+> **Let's dive deep into action. Let's create this app in real world !!** 😏
+
+I have created this app with the help of **Flutter & Dart**. 
+
+**Let's see what I have made :).**
